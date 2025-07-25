@@ -51,29 +51,20 @@ The dataset consists of the following features:
 pip install streamlit pandas scikit-learn
 🧭 Application Workflow
 Launch the app in your browser.
-
 Fill in the form fields (product ID, air temperature, torque, etc.)
-
 Click "Predict Failure".
-
 View the model's prediction (Failure / No Failure).
 
 🧪 Model Details
 Model Type: Random Forest Classifier
-
 Why Random Forest? It handles both numerical and categorical features well, is resistant to overfitting, and provides high accuracy.
-
 Serialization: The trained model is saved using joblib for reuse in the Streamlit application.
 
 ⚙️ Dependencies
 Python 3.x
-
 Streamlit
-
 Pandas
-
 Scikit-learn
-
 Joblib
 
 📚 About the Dataset
@@ -91,12 +82,3 @@ Dr B R Ambedkar National Institute of Technology, Jalandhar
 
 📄 License
 This project is open-source and available under the MIT License.
-
-yaml
-Copy code
-
----
-
-✅ *Just paste this into your `README.md` file on GitHub*  
-🔁 Replace any placeholder links (`#`) with your actual Colab, Kaggle, or LinkedIn links.  
-Let me know if you want a badge section or screenshots section added!
