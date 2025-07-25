@@ -1,4 +1,4 @@
-# 💳 Reducing Credit Default Rate at Bank
+# 💳 credit_risk_modeling at Bank
 
 **Author:** Gaurav Yadav  
 **Technologies:** Python · Pandas · Scikit-learn · SMOTE · XGBoost · Matplotlib · Seaborn
